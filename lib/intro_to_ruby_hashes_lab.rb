@@ -7,6 +7,7 @@ my_hash= {age: 9, name: "trish"}
 end
 
 def pioneer
+  pioneer = {:name => "Grace Hopper"}
   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
 end
 
